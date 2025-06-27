@@ -1,0 +1,31 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/koki/piper_ws/install/q_to_rpy_ros2/lib/python3.10/site-packages",
+        "/home/koki/piper_ws/install/piper_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/piper_ws/install/piper/lib/python3.10/site-packages",
+        "/home/koki/urdf_ws/install/piper_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/urdf_ws/install/piper/lib/python3.10/site-packages",
+        "/home/koki/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/koki/ros2_ws/install/gim_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/ros2_ws/install/gim_controller/lib/python3.10/site-packages",
+        "/home/koki/ur_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/koki/piper_ws/install/q_to_rpy_ros2/lib/python3.10/site-packages",
+        "/home/koki/piper_ws/install/piper_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/piper_ws/install/piper/lib/python3.10/site-packages",
+        "/home/koki/urdf_ws/install/piper_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/urdf_ws/install/piper/lib/python3.10/site-packages",
+        "/home/koki/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/koki/ros2_ws/install/gim_msgs/local/lib/python3.10/dist-packages",
+        "/home/koki/ros2_ws/install/gim_controller/lib/python3.10/site-packages",
+        "/home/koki/ur_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
